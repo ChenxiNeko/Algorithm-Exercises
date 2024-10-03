@@ -2,6 +2,10 @@
 
 练习用归档，尽量每周 Commit 超过 4 天，欢迎监督~
 
+## Why C# ?
+
+.NET Core 和 ASP.NET 的高性能以及高集成度，以及编写程序时的舒适感都是其他语言体系无法比拟的！即使完整的学习.NET平均需要两年的时间，我也会坚持下去的w
+
 ## Why Ruby?
 
 > RPG Maker XP使用Ruby编程语言架构的脚本系统，以Ruby基础架构内置图形、音效等形成的系统，便称之为RGSS（Ruby Game Scripting System）。这使得RPG Maker XP制作的游戏可以很容易强化、扩展。系统非常容易学习，而有经验的程序员可以使用RGSS撰写复杂功能。[原文链接](https://zh.wikipedia.org/wiki/RGSS)
