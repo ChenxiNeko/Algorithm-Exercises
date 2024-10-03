@@ -1,6 +1,6 @@
 # Algorithm-Exercises
 
-练习用归档
+练习用归档，尽量每周 Commit 超过 4 天，欢迎监督~
 
 ## Why Ruby?
 
@@ -15,6 +15,10 @@
 ## Why Rust?
 
 因为它很酷。
+
+## Why Swift?
+
+Fuck Apple （但是还是要给 Apple 用户开发应用的
 
 ## 待补充
 
